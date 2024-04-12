@@ -27,7 +27,7 @@ The process of using parents' card for online consumption
 #### Snowman: 16 years old / high school student
 
 ###### Relation with experience to redesign
-<span style="color:#fff5b1">She usually uses the Kakao Mini Card and the allowance she received from her parents. However, when her pocket money runs out or she needs to buy something expensive, she contacts her parents to buy the item for her.</span>
+<span style="color:#fff5b1"> She usually uses the Kakao Mini Card and the allowance she received from her parents. However, when her pocket money runs out or she needs to buy something expensive, she contacts her parents to buy the item for her. </span>
 
 #### Observations
 
