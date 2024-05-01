@@ -214,6 +214,7 @@ We got three main feedbacks in the DP3 session. The first feedback is that there
 Children can communicate with their families about consumption through the chat function of this app. In the "Categories" tab, users can see the remaining budget for each category, and there is a "Request more budget" button to request a budget. When the user presses this button, the user will be taken to a message window, and a message requesting a budget will be automatically completed and sent.
 
 ![Reflection](https://github.com/hogyulee/cs374/assets/66636839/d0bdcd26-41d2-420d-bea9-f79158f498a1)
+![Reflection2](https://github.com/hogyulee/cs374/assets/66636839/91acc17b-b0e4-4f75-bdd9-8a3af91eade7)
 
 The second feedback is that the process of users and their parents entering the service needs to be fleshed out. As it is a sensitive system that makes payments on behalf of others, it is important to identify whether the parents and children in the service are actually in a parent-child relationship. Therefore, some kind of authentication system is needed in the process of registering parents and children. Although it was not included in the presentation due to time constraints, we have already designed an authentication system, and this is briefly included in the prototype. 
 
