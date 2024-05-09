@@ -98,61 +98,61 @@ Adding and editing family members is done by the representative.
 ## Task #1: Complete Food Delivery Payment
 ![image1](https://github.com/hogyulee/cs374/assets/66636839/61852dc3-d63a-409a-bca8-82252b030727)
 
-Start from the Food Delivery screen.(Flow3)
-Click Anywhere. 
-Review the recipient[수취인] and price.
-Check consent details[약관 동의 내용].
-Try to refuse the agreement and see what happens.
-Proceed  to complete the payment process.
-Confirm successful payment completion.
+- Start from the Food Delivery screen.(Flow3)
+- Click Anywhere. 
+- Review the recipient[수취인] and price.
+- Check consent details[약관 동의 내용].
+- Try to refuse the agreement and see what happens.
+- Proceed  to complete the payment process.
+- Confirm successful payment completion.
 
 ## Task #2: Check Remaining Balance
 ![image2](https://github.com/hogyulee/cs374/assets/66636839/29a11f96-30b0-4638-9a77-1c1c94dfe5ab)
 
-Review the remaining balance available for food purchases.  
-Navigate to the Categories
-Click the [more] button on the categories section on the main page
-Or Click Categories in bottom bar
-Or Click Food category (move to instruction 3)
-Move to Food Category
-Observe the remaining balance displayed.
-Verify accuracy and understand the available budget for food purchases.
+- Review the remaining balance available for food purchases.  
+- Navigate to the Categories
+- Click the [more] button on the categories section on the main page
+- Or Click Categories in bottom bar
+- Or Click Food category (move to instruction 3)
+- Move to Food Category
+- Observe the remaining balance displayed.
+- Verify accuracy and understand the available budget for food purchases.
 
 
 ## Task #3: Send Request for Permission and Payment for Clothes
 ![image3](https://github.com/hogyulee/cs374/assets/66636839/ce40f458-d401-402a-8187-ea6f984254ca)
 
-Start from external shopping app screen (Flow 2)
-Unlike Task 1 , immediate payment is not possible. Find out why it's impossible.
-Try to select someone other than Brad as the target of the payment request.
-Send a payment request to the selected family member.
-Go back to the home page.
+- Start from external shopping app screen (Flow 2)
+- Unlike Task 1 , immediate payment is not possible. Find out why it's impossible.
+- Try to select someone other than Brad as the target of the payment request.
+- Send a payment request to the selected family member.
+- Go back to the home page.
 
 
 
 ## Task #4: Add Another Family Member to Permission Request
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
 
-Move to processing request
-Click processing request on main page
-Or Click the [more] button on Requests section and click processing request.
-Add an additional family member for approval
-Click the [change] button and choose any person you want
-Click the [request] button
-Verify the update request status
-Go back to the home page.
+- Move to processing request
+- Click processing request on main page
+- Or Click the [more] button on Requests section and click processing request.
+- Add an additional family member for approval
+- Click the [change] button and choose any person you want
+- Click the [request] button
+- Verify the update request status
+- Go back to the home page.
 
 ## Task #5 : Request Increase on Budget for Book Category
 ![image5](https://github.com/hogyulee/cs374/assets/66636839/d634ef74-bb0e-4e61-b09c-653d5cf56327)
 
-Send request message for increasing budget to “Mary”
-Navigate to “Categories” page
-Choose “Book” category
-Request more budgets to Mary. 
-Check requesting chat
-Now you have sent a request to Mary, and automatically moved to the chatting page. Further chatting to get permission is given.
-Read the chat
-Press “send message..”
-When the keyboard pops up, press the send button.
+- Send request message for increasing budget to “Mary”
+- Navigate to “Categories” page
+- Choose “Book” category
+- Request more budgets to Mary. 
+- Check requesting chat
+- Now you have sent a request to Mary, and automatically moved to the chatting page. Further chatting to get permission is given.
+- Read the chat
+- Press “send message..”
+- When the keyboard pops up, press the send button.
 
 
