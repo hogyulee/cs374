@@ -208,18 +208,17 @@ These are the tasks we have modified after DP4(5/9).
 3. Try to select someone other than Brad as the target of the payment request.
 4. Send a payment request to the selected family member.
 5. Go back to the home page.
-6. Check whether your request was processed correctly
-- a. Check new notification.
-- b. Check details of the notified request.
+
 
 ## Task #3: Add Another Family Member to Permission Request
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
-
+> Let's assume that 1 hour passed after you performed task 2.
+ 
 1. Start from home. If you are not at homepage, move to home.
-2. Move to processing request
-- a. Click processing request on main page
-- b. Or Click the [more] button on Requests section and click processing request.
-3. Add an additional family member for approval
+2. It's been an hour since you sent the request in task2, and it hasn't been approved yet.
+- a. Check your notifications
+- b. Click on the new notification and check your payment status.
+3. You can also request payment to other family members. Add an additional family member for approval
 - a. Click the [change] button and choose any person you want
 - b. Click the [request] button
 4. Verify the update request status
