@@ -210,7 +210,7 @@ These are the tasks we have modified after DP4(5/9).
 5. Go back to the home page.
 - a. Check if new notification have arrived to you.
 - b. Go to notification page.
-7. Check whether your request was processed correctly.
+6. Check whether your request was processed correctly.
 
 ## Task #3: Add Another Family Member to Permission Request
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
