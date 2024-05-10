@@ -208,23 +208,24 @@ These are the tasks we have modified after DP4(5/9).
 3. Try to select someone other than Brad as the target of the payment request.
 4. Send a payment request to the selected family member.
 5. Go back to the home page.
-- a. Check if new notification have arrived to you.
-- b. Go to notification page.
-6. Check whether your request was processed correctly.
+6. Check whether your request was processed correctly
+- a. Check new notification.
+- b. Check details of the notified request.
 
 ## Task #3: Add Another Family Member to Permission Request
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
 
-1. Move to processing request
+1. Start from home. If you are not at homepage, move to home.
+2. Move to processing request
 - a. Click processing request on main page
 - b. Or Click the [more] button on Requests section and click processing request.
-2. Add an additional family member for approval
+3. Add an additional family member for approval
 - a. Click the [change] button and choose any person you want
 - b. Click the [request] button
-3. Verify the update request status
-4. Go back to the home page.
-5. Go to notification page
-6. Check whether your request has been approved
+4. Verify the update request status
+5. Go back to the home page.
+6. Go to notification page
+7. Check whether your request has been approved
 
 ## Task #4 : Request Increase on Budget for Book Category
 ![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
