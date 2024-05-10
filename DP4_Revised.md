@@ -149,6 +149,8 @@ The tasks here are based on 5/9 DP4. Our tasks modified after 5/9 are attached a
 
 
 
+
+
 ## Task #4: Add Another Family Member to Permission Request
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
 
@@ -211,7 +213,7 @@ These are the tasks we have modified after DP4(5/9).
 
 
 ## Task #3: Add Another Family Member to Permission Request
-![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
+![dp4찐막0](https://github.com/hogyulee/cs374/assets/66636839/45d668b2-01c9-4001-9748-98cdae99dced)
 > Let's assume that 1 hour passed after you performed task 2.
  
 1. Start from home. If you are not at homepage, move to home.
@@ -226,9 +228,10 @@ These are the tasks we have modified after DP4(5/9).
 6. Go to notification page
 7. Check whether your request has been approved
 
+
 ## Task #4 : Request Increase on Budget for Book Category
 ![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
-![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
+![dp4찐막1](https://github.com/hogyulee/cs374/assets/66636839/3540aa8f-54eb-462a-9bd3-2de1924a02ac)
 1. Send request message for increasing budget to “Mary”
 - a. Navigate to “Categories” page
 - b. Choose “Book” category
