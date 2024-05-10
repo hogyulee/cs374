@@ -30,7 +30,7 @@ Unfortunatly, we were unable to reflect all of DP3's feedback before 5/9. So, af
 
 - We decided to combine the existing Task 1 and Task 2. This is because Task 2 is not directly related to our POV, but is a form of a subtask of Task 1 into one task. 
 
-- The feedback of payment approval from the parents was missing in task 3 and task 4. Feedback on payment approval has been added as an notification. After approval is made, the user can be notified that permission has been granted through the notification icon on the top bar. When the user clicks the icon, the user can also check the contents of the permission. An action to check the notification was added to Task 3 and Task 4. The final revised Tasks(Task 1 and Task 2 combined, Action added to Task 3 and Task 4) are at the bottom of the report.
+- The feedback of payment approval from the parents was missing in task 3 and task 4. Feedback on payment approval has been added as a notification. After approval is made, the user can be notified that permission has been granted through the notification icon on the top bar. When the user clicks the icon, the user can also check the contents of the permission. An action to check the notification was added to Task 3 and Task 4. The final revised Tasks(Task 1 and Task 2 combined, Action added to Task 3 and Task 4) are at the bottom of the report.
 
 Heuristic Evaluation Request Form
 =============================
