@@ -1,6 +1,6 @@
 Prototype Iteration
 =============================
-## Link to your prototype
+## Link to our prototype
 https://www.figma.com/file/ia4SioSHfC1FXcNjWnatXV/Paymily?type=design&node-id=1%3A1186&mode=design&t=n5l06nbPqKkPaFnK-1
 
 ## Representative screenshots
@@ -9,9 +9,14 @@ https://www.figma.com/file/ia4SioSHfC1FXcNjWnatXV/Paymily?type=design&node-id=1%
 ![image3](https://github.com/hogyulee/cs374/assets/66636839/ce40f458-d401-402a-8187-ea6f984254ca)
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
 
-## How we improved Digital Prototype from DP3.
+## How we improved Digital Prototype from DP3. & How we revised the Tasks/Scenarios from DP3.
 
-## How we revised the Tasks/Scenarios from DP3.
+In the last DP3, we received feedback that our prototype needed to include features for parents and children to communicate. In our service, hildren spend within a preset budget discussed with their parents, but the ability to set or adjust that budget was not included in our prototype or task.
+
+We added a chat function in preparation for DP4. This work was done immediately after DP3 was completed so it is also detailed in DP3's Studio Reflections. To explain briefly again, children and parents can communicate freely through chat like in other chat apps. And if your child presses the "Request more budget" button on the Categories Tab, they will automatically be taken to the message screen and can request more budget. We wanted to check this newly added feature in DP4, so we added "Request Increase on Budget for Book Category" as Task 5 to check whether this feature works well for users.
+
+There were also minor modifications. We increased the size of text and buttons that were too small to be seen. We also had flow issues. After making a payment in an external app, the screen had to return to the original external app, but there was a flow that did not match the reality, such as the screen returning to the main screen of our app. This flow was modified to meet the user's expectations.
+
 
 
 
