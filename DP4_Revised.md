@@ -202,6 +202,7 @@ These are the tasks we have modified after DP4(5/9).
 
 ## Task #2: Send Request for Permission and Payment for Clothes
 ![image3](https://github.com/hogyulee/cs374/assets/66636839/ce40f458-d401-402a-8187-ea6f984254ca)
+![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
 
 1. Start from external shopping app screen (Flow 2)
 2. Unlike Task 1 , immediate payment is not possible. Find out why it's impossible.
@@ -213,6 +214,7 @@ These are the tasks we have modified after DP4(5/9).
 
 ## Task #3: Add Another Family Member to Permission Request
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
+![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
 
 1. Move to processing request
 - a. Click processing request on main page
@@ -227,7 +229,7 @@ These are the tasks we have modified after DP4(5/9).
 
 ## Task #4 : Request Increase on Budget for Book Category
 ![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
-![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
+
 1. Send request message for increasing budget to “Mary”
 - a. Navigate to “Categories” page
 - b. Choose “Book” category
