@@ -18,15 +18,15 @@ In the last DP3, we received feedback that our prototype needed to include featu
 We added a chat function in preparation for DP4. This work was done immediately after DP3 was completed so it is also detailed in DP3's Studio Reflections. To explain briefly again, children and parents can communicate freely through chat like in other chat apps. And if your child presses the "Request more budget" button on the Categories Tab, they will automatically be taken to the message screen and can request more budget. We wanted to check this newly added feature in DP4, so we added "Request Increase on Budget for Book Category" as Task 5 to check whether this feature works well for users.
 
 There were also minor modifications. 
-- We increased the size of text and buttons that were too small to be seen. We also had flow issues. 
-- After making a payment in an external app, the screen had to return to the original external app, but there was a flow that did not match the reality, such as the screen returning to the main screen of our app. This flow was modified to meet the user's expectations. 
+- We increased the size of text and buttons that were too small to be seen. 
+- We also had flow issues. After making a payment in an external app, the screen had to return to the original external app, but there was a flow that did not match the reality, such as the screen returning to the main screen of our app. This flow was modified to meet the user's expectations. 
 - In task3 and task4, the feature of switching receiver did not work well, but this has been fixed to work properly.
 - Due to our mistake in the last DP3, Task 2 did not support end-to-end scenario. There was no available action in category page. We corrected this mistake and modified the flow so that the end-to-end scenario of Task 2 can be performed correctly.
 
 
 ## After 5/9(Fri)
 
-Unfortunatly, we were unable to reflect all of DP3's feedback before 5/9. So, after 5/9 DP4, we additionally reflected some of the feedback from DP3. 
+Unfortunately, we were unable to reflect all of DP3's feedback before 5/9. So, after 5/9 DP4, we additionally reflected some of the feedback from DP3. 
 
 - We decided to combine the existing Task 1 and Task 2. This is because Task 2 is not directly related to our POV, but is a form of a subtask of Task 1 into one task. 
 
@@ -162,7 +162,7 @@ The tasks here are based on 5/9 DP4. Our tasks modified after 5/9 are attached a
 4. Go back to the home page.
 
 ## Task #5 : Request Increase on Budget for Book Category
-![image5](https://github.com/hogyulee/cs374/assets/66636839/d634ef74-bb0e-4e61-b09c-653d5cf56327)
+![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
 
 1. Send request message for increasing budget to “Mary”
 - a. Navigate to “Categories” page
@@ -226,13 +226,13 @@ These are the tasks we have modified after DP4(5/9).
 6. Check if your request has been approved
 
 ## Task #4 : Request Increase on Budget for Book Category
-![image5](https://github.com/hogyulee/cs374/assets/66636839/d634ef74-bb0e-4e61-b09c-653d5cf56327)
-
+![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
+![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
 1. Send request message for increasing budget to “Mary”
 - a. Navigate to “Categories” page
 - b. Choose “Book” category
 - c. Request more budgets to Mary. 
-2. Check requesting chat
+1. Check requesting chat
 > Now you have sent a request to Mary, and automatically moved to the chatting page. Further chatting to get permission is given.
 - a. Read the chat
 - b. Press “send message..”
