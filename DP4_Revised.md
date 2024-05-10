@@ -208,7 +208,8 @@ These are the tasks we have modified after DP4(5/9).
 3. Try to select someone other than Brad as the target of the payment request.
 4. Send a payment request to the selected family member.
 5. Go back to the home page.
-6. Go to notification page
+- a. Check if new notification have arrived to you.
+- b. Go to notification page.
 7. Check whether your request was processed correctly.
 
 ## Task #3: Add Another Family Member to Permission Request
