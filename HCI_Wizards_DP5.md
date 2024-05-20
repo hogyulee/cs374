@@ -119,6 +119,19 @@ Why are they representative target users?
 
 Brief demographic, Context information about each participant
 
+Participant 1:
+Photo or sketch of participant
+Summary description of each session (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
+
+Participant 2:
+Photo or sketch of participant
+Summary description of each session (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
+
+Participant 3:
+Photo or sketch of participant
+Summary description of each session (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
+
+
 ## Usability lessons
 
 1. 
