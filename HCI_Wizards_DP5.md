@@ -35,6 +35,8 @@ Connected Soultion:
 
 #### Instructions for preparation and setting up the testing environment
 
+https://www.figma.com/design/O8fbdPu9gTO4BjODvYKyMP/Paymily-Design-DP5?m=dev
+
 #### Introduction and informed consent
 
 |정보 수집 항목|정보 수집 목적|
@@ -43,8 +45,7 @@ Connected Soultion:
 |테스트1|테스트2|
 |테스트1|테스트2|
  
-###### Information retention and use period
-종강할 때까지
+Information retention and use period - 종강할 때까지
 
 * You have the right to refuse to provide personal information or participate in a session, and you will not be penalized in any way if you refuse.
 
@@ -113,10 +114,18 @@ Connected Soultion:
 
 #### Recording strategy
 
+sketches, photos, voice recordings, screen captures, screen recordings, written notes
+
 #### Questionnaires, Interview questions
+
+질문 목록
+- 어떠셨나요?
+- 가장 불편했던 점은?
 
 #### Debrief prompt
 
+감사합니다.
+앞서 안내한대로 정보는 종강 이후로 폐기될 예정입니다.
 
 ## Session observations
 
@@ -132,21 +141,21 @@ Brief demographic, Context information about each participant
 
 #### Participant 1:
 
-Photo or sketch of participant
+(Photo or sketch of participant)
 
 Summary description of each session 
 (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
 
 #### Participant 2:
 
-Photo or sketch of participant
+(Photo or sketch of participant)
 
 Summary description of each session 
 (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
 
 #### Participant 3:
 
-Photo or sketch of participant
+(Photo or sketch of participant)
 
 Summary description of each session 
 (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
