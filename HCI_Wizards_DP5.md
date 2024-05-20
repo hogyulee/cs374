@@ -37,6 +37,17 @@ Connected Soultion:
 
 #### Introduction and informed consent
 
+|정보 수집 항목|정보 수집 목적|
+|------|---|
+|Age|정보를 수집하는 목적|
+|테스트1|테스트2|
+|테스트1|테스트2|
+ 
+###### Information retention and use period
+종강할 때까지
+
+* You have the right to refuse to provide personal information or participate in a session, and you will not be penalized in any way if you refuse.
+
 #### Tutorial or training (if needed)
 
 #### Task list & instruction
