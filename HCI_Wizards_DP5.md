@@ -33,19 +33,78 @@ Connected Soultion:
 
 ## Written protocol
 
-Instructions for preparation and setting up the testing environment
+#### Instructions for preparation and setting up the testing environment
 
-Introduction and informed consent
+#### Introduction and informed consent
 
-Tutorial or training (if needed)
+#### Tutorial or training (if needed)
 
-Task list & instruction
+#### Task list & instruction
+#### Task #1: Complete Food Delivery Payment and Check the Remaining Balance
 
-Recording strategy
+![image1](https://github.com/hogyulee/cs374/assets/66636839/61852dc3-d63a-409a-bca8-82252b030727)
+![image2](https://github.com/hogyulee/cs374/assets/66636839/29a11f96-30b0-4638-9a77-1c1c94dfe5ab)
 
-Questionnaires, Interview questions
+1. Start from the Food Delivery screen.(Flow3)
+2. Click Anywhere. 
+3. Review the recipient[수취인] and price.
+4. Check consent details[약관 동의 내용].
+5. Try to refuse the agreement and see what happens.
+6. Proceed  to complete the payment process.
+7. Confirm successful payment completion.
+8. Review the remaining balance available for food purchases.  
+9. Navigate to the Categories
+- a. Click the [more] button on the categories section on the main page
+- b. Or Click Categories in bottom bar
+- c. Or Click Food category (move to instruction 3)
+10. Move to Food Category
+11. Observe the remaining balance displayed.
+12. Verify accuracy and understand the available budget for food purchases.
 
-Debrief prompt
+
+#### Task #2: Send Request for Permission and Payment for Clothes
+![image3](https://github.com/hogyulee/cs374/assets/66636839/ce40f458-d401-402a-8187-ea6f984254ca)
+
+1. Start from external shopping app screen (Flow 2)
+2. Unlike Task 1 , immediate payment is not possible. Find out why it's impossible.
+3. Try to select someone other than Brad as the target of the payment request.
+4. Send a payment request to the selected family member.
+5. Go back to the home page.
+6. Go to notification page
+7. Check if your request has been approved
+
+#### Task #3: Add Another Family Member to Permission Request
+![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
+
+1. Move to processing request
+- a. Click processing request on main page
+- b. Or Click the [more] button on Requests section and click processing request.
+2. Add an additional family member for approval
+- a. Click the [change] button and choose any person you want
+- b. Click the [request] button
+3. Verify the update request status
+4. Go back to the home page.
+5. Go to notification page
+6. Check if your request has been approved
+
+#### Task #4 : Request Increase on Budget for Book Category
+![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
+![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
+1. Send request message for increasing budget to “Mary”
+- a. Navigate to “Categories” page
+- b. Choose “Book” category
+- c. Request more budgets to Mary. 
+1. Check requesting chat
+> Now you have sent a request to Mary, and automatically moved to the chatting page. Further chatting to get permission is given.
+- a. Read the chat
+- b. Press “send message..”
+- c. When the keyboard pops up, press the send button.
+
+#### Recording strategy
+
+#### Questionnaires, Interview questions
+
+#### Debrief prompt
 
 
 ## Session observations
