@@ -31,6 +31,11 @@ Connected Soultion:
 
 ## Updates from DP4
 
+![DP5_you](https://github.com/hogyulee/cs374/assets/66636839/936d6f94-c06c-4755-b34e-3e7f68b97354)
+![DP5_select](https://github.com/hogyulee/cs374/assets/66636839/6ac6849d-ab58-4e86-b523-1e04aa1bc446)
+![DP5_requestchange](https://github.com/hogyulee/cs374/assets/66636839/f7af5e62-3364-463e-a569-50fb346547b7)
+![DP5_consent](https://github.com/hogyulee/cs374/assets/66636839/31695909-dca5-41bf-a16d-cb8d51a7c8a1)
+
 ## Written protocol
 
 #### Instructions for preparation and setting up the testing environment
@@ -39,13 +44,15 @@ https://www.figma.com/design/O8fbdPu9gTO4BjODvYKyMP/Paymily-Design-DP5?m=dev
 
 #### Introduction and informed consent
 
-|정보 수집 항목|정보 수집 목적|
+|Information we collect|Purpose of collecting information|
 |------|---|
-|Age|정보를 수집하는 목적|
-|테스트1|테스트2|
-|테스트1|테스트2|
- 
-Information retention and use period - 종강할 때까지
+|Voice recordings|We will record what you say during the user test and in the interview after the user test is complete. This recording is done so that we can record your verbal reactions to our products. These records will be used to detect problems and improve our products.|
+|Screen recordings|We record your screen as you interact with our products during user testing. This is to record your operation and the movement of the cursor during the operation. These records will be used to detect problems and improve our products.|
+|Written notes|We also record our thoughts while you are user testing or speaking. These records will be used to detect problems and improve our products.|
+|Age|Our services are intended for minors. We plan to collect information about your age and use it during the presentation. This is to certify that the person we were testing on was actually a minor.|
+
+
+* We plan to retain the information collected until Friday, June 14th. Information will be destroyed after the deadline
 
 * You have the right to refuse to provide personal information or participate in a session, and you will not be penalized in any way if you refuse.
 
@@ -114,7 +121,7 @@ Information retention and use period - 종강할 때까지
 
 #### Recording strategy
 
-sketches, photos, voice recordings, screen captures, screen recordings, written notes
+Voice recordings, Screen recordings, Written notes
 
 #### Questionnaires, Interview questions
 
@@ -124,8 +131,21 @@ sketches, photos, voice recordings, screen captures, screen recordings, written 
 
 #### Debrief prompt
 
-감사합니다.
-앞서 안내한대로 정보는 종강 이후로 폐기될 예정입니다.
+Thank you all for participating in today's user testing session! We really appreciate your time and valuable feedback.
+
+The purpose of this session was to gather insights on how to make a payment app for minors with a user-friendly interface. Your honest opinions and experiences are crucial in helping us understand what works well and what needs improvement.
+
+During the session, we observed how you interacted with our service, and we noted both the positive aspects and the challenges you faced. This feedback will directly inform our next steps as we refine and enhance our project. Your participation today has brought us one step closer to achieving that.
+
+Thank you once again for your contribution. If you have any further thoughts or feedback, please feel free to reach out. Have a great day!
+
+Best regards,
+Gyuho Lee
+Sejun Jung
+Jiwoong Jang
+Yeongseo Cho
+
+
 
 ## Session observations
 
