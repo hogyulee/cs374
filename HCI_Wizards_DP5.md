@@ -61,7 +61,7 @@ Hello, thank you very much for participating in our testing session. We seek to 
 
 * You have the right to refuse to provide personal information or participate in a session, and you will not be penalized in any way if you refuse.
 
-#### Tutorial or training (if needed)
+  
 
 #### Task list & instruction
 #### Task #1: Complete Food Delivery Payment and Check the Remaining Balance
