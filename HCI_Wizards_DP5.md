@@ -44,12 +44,17 @@ https://www.figma.com/design/O8fbdPu9gTO4BjODvYKyMP/Paymily-Design-DP5?m=dev
 
 #### Introduction and informed consent
 
+We also provided user testing to Korean students. They were provided with Introduction and informed consent in Korean. Below is a link to the Korean version.
+https://drive.google.com/file/d/10__3QzeX9OKibifZD4zbiaJrqmbLrNoD/view?usp=sharing
+
+We seek to obtain consent to collect information in accordance with the Personal Information Protection Act(개인정보보호법 제15조 7항). Below is the information we collect during this user testing session and the purposes for which we collect it.
+
 |Information we collect|Purpose of collecting information|
 |------|---|
-|Voice recordings|We will record what you say during the user test and in the interview after the user test is complete. This recording is done so that we can record your verbal reactions to our products. These records will be used to detect problems and improve our products.|
-|Screen recordings|We record your screen as you interact with our products during user testing. This is to record your operation and the movement of the cursor during the operation. These records will be used to detect problems and improve our products.|
-|Written notes|We also record our thoughts while you are user testing or speaking. These records will be used to detect problems and improve our products.|
-|Age|Our services are intended for minors. We plan to collect information about your age and use it during the presentation. This is to certify that the person we were testing on was actually a minor.|
+|Voice recordings|We will be recording what you say during the user testing and during the interview after the user testing is complete. This recording is done to record your verbal responses to our services. These records are used to detect problems with the service and make improvements.|
+|Screen recordings|We record screens as you interact with our services during user testing. This is to record the user's actions and the cursor movements while doing so. These records are used to detect problems with our services and improve our products.|
+|Written notes|We will take notes about your actions and words while you are conducting user tests or conducting interviews. These records are used to detect problems and improve our products.|
+|Age|Our services are intended for minors. We would like to collect information about your age and indicate in the class presentation who we are testing for. This is to verify that the subjects we tested were actually minors who were eligible for the service.|
 
 
 * We plan to retain the information collected until Friday, June 14th. Information will be destroyed after the deadline
