@@ -47,7 +47,7 @@ https://www.figma.com/design/O8fbdPu9gTO4BjODvYKyMP/Paymily-Design-DP5?m=dev
 We also provided user testing to Korean students. They were provided with Introduction and informed consent in Korean. Below is a link to the Korean version.
 https://drive.google.com/file/d/10__3QzeX9OKibifZD4zbiaJrqmbLrNoD/view?usp=sharing
 
-We seek to obtain consent to collect information in accordance with the Personal Information Protection Act(개인정보보호법 제15조 7항). Below is the information we collect during this user testing session and the purposes for which we collect it.
+Hello, thank you very much for participating in our testing session. We seek to obtain consent to collect information in accordance with the Personal Information Protection Act(개인정보보호법 제15조 7항). Below is the information we collect during this user testing session and the purposes for which we collect it.
 
 |Information we collect|Purpose of collecting information|
 |------|---|
