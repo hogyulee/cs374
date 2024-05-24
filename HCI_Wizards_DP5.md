@@ -40,7 +40,21 @@ Connected Soultion:
 
 #### Instructions for preparation and setting up the testing environment
 
-https://www.figma.com/design/O8fbdPu9gTO4BjODvYKyMP/Paymily-Design-DP5?m=dev
+1. Equipment and Software
+* Computer: Prepare a laptop or computer that downloaded the latest Windows OS or MacOS.
+* Web Browser: Use Google Chrome (ensure it is updated to the latest version).
+* Peripheral devices: Prepare a microphone and speaker that provides clear sound for smooth communication. Users should also prepare a mouse for testing.
+* Internet Connection: Ensure a stable and fast internet connection.
+* Screen Recording Software: Use Zoom’s screen recording feature.
+* Voice Recording Device: Ensure a microphone is set up for recording participants' voices.
+* Notebook and Pen: For written notes
+* URL: https://www.figma.com/proto/O8fbdPu9gTO4BjODvYKyMP/Paymily-Design-DP5?node-id=1-768&t=D63qrOZPcWiT0DXO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A768&show-proto-sidebar=1
+
+
+2. Environment setup
+* Quiet environment: Prepare a quiet testing environment where there will be no disturbance.
+* Recording: The user whose screen is shared turns on the microphone and selects the Figma screen to share the screen on Zoom. There’s no need to turn on the camera.
+* Before starting the test, make sure that screen recording and voice sharing proceed smoothly.
 
 #### Introduction and informed consent
 
