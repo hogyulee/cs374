@@ -140,7 +140,41 @@ Hello, thank you very much for participating in our testing session. We seek to 
 
 #### Recording strategy
 
-Voice recordings, Screen recordings, Written notes
+###### Methods of Recording Observations and Findings
+
+Voice Recordings:
+
+Use the “Samsung recording” app on the phone.
+
+Screen Recordings:
+
+Use “Zoom” to record the testing screen
+
+Written Notes:
+
+Take comprehensive notes during and immediately after sessions to capture immediate thoughts and observations.
+Use a structured format (e.g., bullet points, headings) to make notes clear and organized.
+
+###### Team Roles
+
+Facilitator: Yeongseo
+
+Lead the session and guide the discussion.
+Ensure all topics and questions are covered.
+Maintain a comfortable and open environment for participants to share their thoughts.
+Keep track of time and ensure the session stays on schedule.
+
+Observers: Gyuho, Jiwoong
+
+Pay close attention to participants' non-verbal cues and body language.
+Take detailed notes on participant reactions, behaviors, and comments.
+Note any technical issues or unusual occurrences.
+
+Tech Person: Sejun
+
+Monitor the Figma Prototype is functioning properly.
+Handle any technical issues that arise during the session.
+Ensure all data (voice recordings, screen recordings, and written notes) is securely saved and backed up.
 
 #### Questionnaires, Interview questions
 
