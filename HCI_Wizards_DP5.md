@@ -178,9 +178,17 @@ Ensure all data (voice recordings, screen recordings, and written notes) is secu
 
 #### Questionnaires, Interview questions
 
-질문 목록
-- 어떠셨나요?
-- 가장 불편했던 점은?
+* Were the instructions clear and easy to follow?
+* Can you tell us all the functions of our prototype?
+* Can you describe any difficulties you encountered during the tasks?
+* How did you find the overall experience of completing the tasks?
+* Were there any particular parts you found enjoyable or frustrating?
+* Or were there any particular parts you found uncomfortable or meaningless?
+* Do you have any suggestions for improving the instructions or format?
+* If you are a real user, would you find our app helpful?
+* If not, why did you feel so? Do you have any suggestions to improve our project?
+* Who do you think needs this app? Do you think this would be helpful for them?
+* Any final comments?
 
 #### Debrief prompt
 
