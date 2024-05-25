@@ -140,7 +140,7 @@ Hello, thank you very much for participating in our testing session. We seek to 
 
 #### Recording strategy
 
-###### Methods of Recording Observations and Findings
+#### Recording strategy - Methods of Recording Observations and Findings
 
 Voice Recordings:
 
@@ -155,7 +155,7 @@ Written Notes:
 Take comprehensive notes during and immediately after sessions to capture immediate thoughts and observations.
 Use a structured format (e.g., bullet points, headings) to make notes clear and organized.
 
-###### Team Roles
+###### Recording strategy - Team Roles
 
 Facilitator: Yeongseo
 
