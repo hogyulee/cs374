@@ -213,17 +213,14 @@ We recruited them from among our acquaintances. Superman and Ant Man were the yo
 
 #### Why are they representative target users?
 Our target users are minors who engage in online consumption activities. We'll describe the online consumption experiences of the people we tested with to ensure they represent our target users.
-
 #### Superman
 Superman usually makes online payments when buying clothes. When he uses online payments, he uses bank transfer. He believes that it is cumbersome to pay by card because it requires entering the card number.
-
 #### Ant Man
 Ant Man spends online to buy school supplies. Although he does consume online, he relies on his parents for the entire process. He makes the payment online by finding the items he needs, notifying his parents, and having them complete the rest of the payment process. He said that there were many inconveniences during the payment process, such as the window for payment preparation disappearing and disagreements with parents regarding payment.
-
 #### Iron Man
 Iron Man is a 19-year-old college student. As Iron Man lives and lives separately from his parents, he was our extreme user who frequently spends online. He was making online purchases using pay services such as Toss. Even if he used Toss, there were some inconveniences such as requesting money through a separate messenger when he ran out of money.
 
-Demographic, Context information
+#### Demographic, Context information
 |Nickname|Age|School|Gender|Nationality|
 |--------|---|-----|-------|------------|
 |Superman|18|High School|Male|Korean|
