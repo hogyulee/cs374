@@ -83,7 +83,7 @@ Hello, thank you very much for participating in our testing session. We seek to 
 ![image2](https://github.com/hogyulee/cs374/assets/66636839/29a11f96-30b0-4638-9a77-1c1c94dfe5ab)
 
 1. Start from the Food Delivery screen.(Flow3)
-2. Click "Agree and pay" and proceed. 
+2. Click Anywhere. 
 3. Review the recipient[수취인] and price.
 4. Check consent details[약관 동의 내용].
 5. Try to refuse the agreement and see what happens.
@@ -147,7 +147,7 @@ Written Notes:
 Take comprehensive notes during and immediately after sessions to capture immediate thoughts and observations.
 Use a structured format (e.g., bullet points, headings) to make notes clear and organized.
 
-#### Recording strategy - Team Roles
+###### Recording strategy - Team Roles
 
 Facilitator: Yeongseo
 
@@ -213,14 +213,17 @@ We recruited them from among our acquaintances. Superman and Ant Man were the yo
 
 #### Why are they representative target users?
 Our target users are minors who engage in online consumption activities. We'll describe the online consumption experiences of the people we tested with to ensure they represent our target users.
+
 #### Superman
 Superman usually makes online payments when buying clothes. When he uses online payments, he uses bank transfer. He believes that it is cumbersome to pay by card because it requires entering the card number.
+
 #### Ant Man
 Ant Man spends online to buy school supplies. Although he does consume online, he relies on his parents for the entire process. He makes the payment online by finding the items he needs, notifying his parents, and having them complete the rest of the payment process. He said that there were many inconveniences during the payment process, such as the window for payment preparation disappearing and disagreements with parents regarding payment.
+
 #### Iron Man
 Iron Man is a 19-year-old college student. As Iron Man lives and lives separately from his parents, he was our extreme user who frequently spends online. He was making online purchases using pay services such as Toss. Even if he used Toss, there were some inconveniences such as requesting money through a separate messenger when he ran out of money.
 
-#### Demographic, Context information
+Demographic, Context information
 |Nickname|Age|School|Gender|Nationality|
 |--------|---|-----|-------|------------|
 |Superman|18|High School|Male|Korean|
@@ -241,7 +244,8 @@ He said he could read English on his own, so we did not prepare a Korean version
 
 (Photo or sketch of participant)
 
-What was unique about Ant-Man was that he never had his own smartphone. He says he doesn't have much experience with apps since he doesn't use smartphones other than his family's.
+What was unique about Ant Man was that he never had his own smartphone. He says he doesn't have much experience with apps since he doesn't use smartphones other than his family's. 
+
 Ant Man had much the same problem as Superman. He wasn't familiar with English, so Ant Man had a hard time understanding it even though he spent time on it. In particular, when it came to agreeing to terms and conditions, he seemed to have no idea what agreement to terms and conditions was. It wasn't a problem with the English language, he just didn't understand its concepts properly. It made us worry about whether it is right to ask consent from a young child who does not know what consent to terms and conditions is.
 
 
@@ -255,19 +259,23 @@ Summary description of each session
 
 ## Usability lessons
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. [Task 1 Action 2] The back button does not work on the food payment screen.
+
+2. [Task 1 Action 4] It is difficult to find the part where you agree to the terms and conditions. It was recognized only after the user reads the entire long text.
+
+3. [Task 1 Action 5] It is not intuitive to check whether you agree or disagree with the terms and conditions. When attempting to disagree, a message immediately pops up stating that consent is required, which confuses users.
+   
+4. [Task 1 Action 10] It is not clear what period the budget for each displayed category is set based on. (Is it a monthly budget? Is it a weekly budget?)
+   
+5. [Task 1 Action 10] It is difficult to distinguish between the remaining amount and the spent amount in the category tab.
+
+6. [Task 2 Action 3] The tab that specifies the payment request target is labeled as family. However, it is not clear that the family tab specifies the payment request target.
+
+7. [Task 4] In the budget increase request, the period during which the budget increase is applied is unclear. (Is the increase only for one month or permanent?)
+
+8. [Not related to Task] It is difficult to figure out how to access the chat again.
 
 High-level reflections
-
 
 ## Studio Reflections
 
