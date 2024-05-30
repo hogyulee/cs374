@@ -25,9 +25,9 @@ Connected Soultion: Allow users to add alternate contacts, who are able to appro
 
 #### Task 4: Request Increase on Budget for Book Category
 
-Connected HMW: 
+Connected HMW: HMW allow some categories of consumption to skip the process of getting permission? 
 
-Connected Soultion:
+Connected Soultion: Make purchases within specific categories and adhere to preset budget for each category which is set by parents in advance.
 
 ## Updates from DP4
 
