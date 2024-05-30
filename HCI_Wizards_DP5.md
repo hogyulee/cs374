@@ -242,6 +242,7 @@ He said he could read English on his own, so we did not prepare a Korean version
 (Photo or sketch of participant)
 
 What was unique about Ant-Man was that he never had his own smartphone. He says he doesn't have much experience with apps since he doesn't use smartphones other than his family's.
+Ant Man had much the same problem as Superman. He wasn't familiar with English, so Ant Man had a hard time understanding it even though he spent time on it. In particular, when it came to agreeing to terms and conditions, he seemed to have no idea what agreement to terms and conditions was. It wasn't a problem with the English language, he just didn't understand its concepts properly. It made us worry about whether it is right to ask consent from a young child who does not know what consent to terms and conditions is.
 
 
 #### Participant 3: Iron man
