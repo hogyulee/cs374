@@ -83,7 +83,7 @@ Hello, thank you very much for participating in our testing session. We seek to 
 ![image2](https://github.com/hogyulee/cs374/assets/66636839/29a11f96-30b0-4638-9a77-1c1c94dfe5ab)
 
 1. Start from the Food Delivery screen.(Flow3)
-2. Click Anywhere. 
+2. Click "Agree and pay" and proceed. 
 3. Review the recipient[수취인] and price.
 4. Check consent details[약관 동의 내용].
 5. Try to refuse the agreement and see what happens.
