@@ -76,7 +76,6 @@ Hello, thank you very much for participating in our testing session. We seek to 
 * You have the right to refuse to provide personal information or participate in a session, and you will not be penalized in any way if you refuse.
 
   
-
 #### Task list & instruction
 #### Task #1: Complete Food Delivery Payment and Check the Remaining Balance
 
@@ -91,13 +90,9 @@ Hello, thank you very much for participating in our testing session. We seek to 
 6. Proceed  to complete the payment process.
 7. Confirm successful payment completion.
 8. Review the remaining balance available for food purchases.  
-9. Navigate to the Categories
-- a. Click the [more] button on the categories section on the main page
-- b. Or Click Categories in bottom bar
-- c. Or Click Food category (move to instruction 3)
-10. Move to Food Category
-11. Observe the remaining balance displayed.
-12. Verify accuracy and understand the available budget for food purchases.
+9.  Move to Food Category
+10. Observe the remaining balance displayed.
+11. Verify accuracy and understand the available budget for food purchases.
 
 
 #### Task #2: Send Request for Permission and Payment for Clothes
@@ -115,11 +110,7 @@ Hello, thank you very much for participating in our testing session. We seek to 
 ![image4](https://github.com/hogyulee/cs374/assets/66636839/189310a7-1b23-455c-a132-af740aebfd58)
 
 1. Move to processing request
-- a. Click processing request on main page
-- b. Or Click the [more] button on Requests section and click processing request.
 2. Add an additional family member for approval
-- a. Click the [change] button and choose any person you want
-- b. Click the [request] button
 3. Verify the update request status
 4. Go back to the home page.
 5. Go to notification page
@@ -128,11 +119,12 @@ Hello, thank you very much for participating in our testing session. We seek to 
 #### Task #4 : Request Increase on Budget for Book Category
 ![task4](https://github.com/hogyulee/cs374/assets/66636839/2d2749e8-934e-469b-ba43-10c9dd9c41a9)
 ![dp4_2](https://github.com/hogyulee/cs374/assets/66636839/ed132699-9f7b-4c6c-b0c2-fde293b2ae49)
-1. Send request message for increasing budget to “Mary”
+1. Check the remaining balance of “Book” category
+2. Send request message for increasing budget to “Mary”
 - a. Navigate to “Categories” page
 - b. Choose “Book” category
 - c. Request more budgets to Mary. 
-1. Check requesting chat
+3. Send requesting chat to Mary
 > Now you have sent a request to Mary, and automatically moved to the chatting page. Further chatting to get permission is given.
 - a. Read the chat
 - b. Press “send message..”
@@ -207,34 +199,55 @@ Jiwoong Jang
 Yeongseo Cho
 
 
-
 ## Session observations
 
-Participants:
+#### Participants:
 
-Who are they? 
+#### Who are they? 
 
-How did you recruit them? 
+We conducted a total of 3 user tests. To protect the personal information of the users who participated in the user test, we will call them nicknames Superman, Ant Man, and Iron Man.
 
-Why are they representative target users? 
+#### How did you recruit them? 
 
-Brief demographic, Context information about each participant
+We recruited them from among our acquaintances. Superman and Ant Man were the younger brothers of a friend of our group member, and Iron Man was a friend of another group member. We went through simple communication in the process of recruiting them. We asked them whether they regularly spend money online to see if they fit our target audience. We also informed them of the content of the user tests we would conduct and helped them make their own decisions about whether to participate.
 
-#### Participant 1:
+#### Why are they representative target users?
+Our target users are minors who engage in online consumption activities. We'll describe the online consumption experiences of the people we tested with to ensure they represent our target users.
+
+#### Superman
+Superman usually makes online payments when buying clothes. When he uses online payments, he uses bank transfer. He believes that it is cumbersome to pay by card because it requires entering the card number.
+
+#### Ant Man
+Ant Man spends online to buy school supplies. Although he does consume online, he relies on his parents for the entire process. He makes the payment online by finding the items he needs, notifying his parents, and having them complete the rest of the payment process. He said that there were many inconveniences during the payment process, such as the window for payment preparation disappearing and disagreements with parents regarding payment.
+
+#### Iron Man
+Iron Man is a 19-year-old college student. As Iron Man lives and lives separately from his parents, he was our extreme user who frequently spends online. He was making online purchases using pay services such as Toss. Even if he used Toss, there were some inconveniences such as requesting money through a separate messenger when he ran out of money.
+
+Demographic, Context information
+|Nickname|Age|School|Gender|Nationality|
+|--------|---|-----|-------|------------|
+|Superman|18|High School|Male|Korean|
+|Antman|14|Middle School|Male|Korean|
+|Ironman|19|University|Male|Korean|
+
+
+#### Participant 1: Superman
 
 (Photo or sketch of participant)
 
-Summary description of each session 
-(e.g., What was unique about this participant? Main takeaway from this participant’s session?).
+Superman was not fluent in English. So when our interface required reading English, it took him longer to understand it. In our app, if you spend more than your budget, a message appears saying that you are over budget, and it took him a long time to understand this. Also, the part about agreeing to the terms and conditions was long to read [Payment Information Confirmation and Personal Information Consent], which made it difficult to understand.
 
-#### Participant 2:
+He said he could read English on his own, so we did not prepare a Korean version of the prototype. However, he had difficulty with the English interface. We learned a lesson that from next time we conduct user testing with Koreans, we should prepare a Korean version of the prototype.
+
+
+#### Participant 2: Ant Man
 
 (Photo or sketch of participant)
 
-Summary description of each session 
-(e.g., What was unique about this participant? Main takeaway from this participant’s session?).
+What was unique about Ant-Man was that he never had his own smartphone. He says he doesn't have much experience with apps since he doesn't use smartphones other than his family's.
 
-#### Participant 3:
+
+#### Participant 3: Iron man
 
 (Photo or sketch of participant)
 
