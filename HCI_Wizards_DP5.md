@@ -147,7 +147,7 @@ Written Notes:
 Take comprehensive notes during and immediately after sessions to capture immediate thoughts and observations.
 Use a structured format (e.g., bullet points, headings) to make notes clear and organized.
 
-###### Recording strategy - Team Roles
+#### Recording strategy - Team Roles
 
 Facilitator: Yeongseo
 
