@@ -259,21 +259,47 @@ He gave us many opinions during the post-user testing interview. He explained to
 ## Usability lessons
 
 
-|Task/Action|Theme|User Problem|Participants|Severity|
-|-----------|-----|------------|------------|---------|
-|[Task 1 Action 4]|visibility| It is difficult to find the part where you agree to the terms and conditions. It was recognized only after the user reads the entire long text.|P1, P3|major|
-|[Task 2 Action 3]|visibility| The text description part is too large, so focusing on the crucial interface is difficult.|P3|minor|
-|[Task 1 Action 10]|terminology| It is difficult to distinguish between the remaining amount and the spent amount in the category tab. (spent amount is not specified, while remaining amount is specified )|P3| major|
-|[Task 2 Action 3]| terminology| The tab that specifies the payment request target is labeled as family. However, it is not clear that the family tab specifies the payment request target. |P1, P3| minor| 
-|[Task1 Action 1-3]|terminology|In the payment progress page, it needs to be clarified what 942$ and 33$ each means.|P3|minor|
-|[Task 1 Action 2]|flow| The back button does not work on the food payment screen. |P1|minor|
-|[Task 1 Action 5]|flow| It is not intuitive to check whether you agree or disagree with the terms and conditions. When attempting to disagree, a message immediately pops up stating that consent is required, which confuses users.|P2, P3|catastrophic|
-|[Task 1 Action 10]|flow| It is not clear what period the budget for each displayed category is set based on. (Is it a monthly budget? Is it a weekly budget?)|P3|major|
-|[Task 4]|flow| In the budget increase request, the period during which the budget increase is applied is unclear. (Is the increase only for one month or permanent?)|P3|major|
-|[Not related to Task]|flow|It is difficult to figure out how to access the chat again.|P3|minor|
-|[Not related to Task]|accessibility|It is hard for someone to understand the interface who cannot speak English|P2|minor|
+||Task/Action|Theme|User Problem|Participants|Severity|
+|-|-----------|-----|------------|------------|---------|
+|1|[Task 2 Action 3]|visibility| The text description part is too large, so focusing on the crucial interface is difficult.|P3|minor|
+|2|[Task 1 Action 10]|terminology| It is difficult to distinguish between the remaining amount and the spent amount in the category tab. (spent amount is not specified, while remaining amount is specified )|P3| major|
+|3|[Task 2 Action 3]| terminology| The tab that specifies the payment request target is labeled as family. However, it is not clear that the family tab specifies the payment request target. |P1, P3| minor| 
+|4|[Task1 Action 1-3]|terminology|In the payment progress page, it needs to be clarified what 942$ and 33$ each means.|P3|minor|
+|5|[Task 1 Action 2]|flow| The back button does not work on the food payment screen. |P1|minor|
+|6|[Task 1 Action 5]|flow| It is not intuitive to check whether you agree or disagree with the terms and conditions. When attempting to disagree, a message immediately pops up stating that consent is required, which confuses users.|P2, P3|catastrophic|
+|7|[Task 1 Action 10]|flow| It is not clear what period the budget for each displayed category is set based on. (Is it a monthly budget? Is it a weekly budget?)|P3|major|
+|8|[Task 4]|flow| In the budget increase request, the period during which the budget increase is applied is unclear. (Is the increase only for one month or permanent?)|P3|major|
+|9|[Not related to Task]|flow|It is difficult to figure out how to access the chat again.|P3|minor|
+|10|[Not related to Task]|accessibility|It is hard for someone to understand the interface who cannot speak English|P2|minor|
+
+|index|Plan to Address|
+|-----|---------------|
+|1|reduce the text font size and indicate some important information by coloring|
+|2|Change the interface of the category page. Add a description to easily distinguish between the total allowance and the remaining allowance like [total: 1000$] or [remaining: 909.1$].|
+|3|Change the labeling. Change “family” to “approver”.|
+|4|Add the description "remaining" above the text that shows the balance.|
+|5|Change the back button to an X button to indicate that the payment is canceled. And add a function to return to the original window.|
+|6|Instead of blocking the unchecking of the agreement, make the payment button not clickable if the user does not agree. |
+|7|Indicates the duration for this budget in the Category page.|
+|8|Since the parents will decide on this, the user interface will not be significantly changed. However, if one of the previous solutions, the period is displayed in the category, it would be a little clearer.|
+|9|Add a “direct message icon” in the family tab in the main page. And Changed the interface of the family page to better display the ability to send messages.|
+|10|Add a translation function. However, since our class is an English class, we won't modify this part.|
+
+
 
 #### High-level reflections
+
+The following are the lessons we learned while conducting this DP. 
+
+1. About Target User - Young Children 
+Our target users are minors, including young children. In this DP, we conducted user testing for the first time with children in middle school or younger. While doing this DP, we learned the meaning of children being the target users.
+
+a. We actively benchmarked existing, well-made apps. This is because we thought that users would already be familiar with the interface of other apps, so if we created a prototype similar to that, users would naturally feel comfortable. But this was not true for young children. Many young children either just got a smartphone or do not have one. They were not familiar with the interfaces of existing apps. This suggested to us that the idea that a good interface is similar to an existing interface may be wrong. 
+
+b. We are building a financial app that requires individual consent. However, young children did not appear to understand this concept. So, other apps usually ask for the consent of a proxy for children. We had missed this point until the previous DP, but we became aware of it when targeting young children. 
+
+2. About language 
+In this DP, we conducted user testing with Korean students who could speak English, but even so, some students found the English interface difficult. Even if they could speak English, they felt more uncomfortable than in their native language, which affected user testing. We had two thoughts. The first is that in order to focus on interface testing, other elements such as language must provide a comfortable environment for users as much as possible. The second thing is that an interface that does not have much difficulty in operation even if you feel uncomfortable with the language will be a really good interface.
 
 
 ## Studio Reflections
