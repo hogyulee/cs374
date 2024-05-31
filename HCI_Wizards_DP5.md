@@ -287,21 +287,26 @@ Chiyoon not only informed us of user problems while going through the task, but 
 ## Plan for iteration
 
 1. Adjust Details (Ratio of Bar and Numbers)
+   
 Goal: Optimize the visibility and interpretability of graphical elements like bars and numerical data.
 Detail: Change all the numbers and bars indicating remaining balance to synchronize the flow of the task
 
 2. Unify Icons
+   
 Goal: Streamline visual language across the platform by standardizing icons.
 Detail: Unify icons of the categories to fit the overall design of the application
 
 3. Clarify Notifications
+   
 Goal: Enhance the clarity and relevance of notifications to improve user interaction.
 Detail: Clarify words in notification page to be more intuitive.
 
 4. Differentiate Functionality of Messages
+   
 Goal: Clearly distinguish between messaging functionalities for different purposes (e.g., monthly budget adjustments vs. single transactions).
 Detail: Map out all current functionalities and user flows involving messaging and change it to work as a communication method for adjusting monthly budget and enhance the feature of messaging. 
 
 5. Discard Duplicate Option for Sending Additional Requests
+    
 Goal: Simplify the process flow by removing redundant options.
 Detail: Add new variables for additional approver and available approver to be controlled by prototype interaction. Link them to actual options.  
