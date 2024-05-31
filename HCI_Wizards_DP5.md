@@ -287,3 +287,23 @@ Yeoungung not only found several problems in our prototype but also suggested go
 Chiyoon not only informed us of user problems while going through the task, but also gave detailed feedback on features of our prototype that were not included in the task. Unlike other testers, he freely explored the prototype and discovered problems. Thanks to this, we were able to discover problems that had not been discovered before. We made it a task to automatically move to chat through budget requests, so we didn't really consider moving to chat through other methods. However, it was difficult to check the sent chat again, and this problem was discovered thanks to Chiyoon.
 
 ## Plan for iteration
+
+1. Adjust Details (Ratio of Bar and Numbers)
+Goal: Optimize the visibility and interpretability of graphical elements like bars and numerical data.
+Detail: Change all the numbers and bars indicating remaining balance to synchronize the flow of the task
+
+2. Unify Icons
+Goal: Streamline visual language across the platform by standardizing icons.
+Detail: Unify icons of the categories to fit the overall design of the application
+
+3. Clarify Notifications
+Goal: Enhance the clarity and relevance of notifications to improve user interaction.
+Detail: Clarify words in notification page to be more intuitive.
+
+4. Differentiate Functionality of Messages
+Goal: Clearly distinguish between messaging functionalities for different purposes (e.g., monthly budget adjustments vs. single transactions).
+Detail: Map out all current functionalities and user flows involving messaging and change it to work as a communication method for adjusting monthly budget and enhance the feature of messaging. 
+
+5. Discard Duplicate Option for Sending Additional Requests
+Goal: Simplify the process flow by removing redundant options.
+Detail: Add new variables for additional approver and available approver to be controlled by prototype interaction. Link them to actual options.  
