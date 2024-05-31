@@ -264,17 +264,17 @@ He gave us many opinions during the post-user testing interview. He explained to
 
 |Task/Action|Theme|User Problem|Participants|Severity|
 |-----------|-----|------------|------------|---------|
-|[Task 1 Action 4]|visibility| It is difficult to find the part where you agree to the terms and conditions. It was recognized only after the user reads the entire long text.|P|major|
-|[Task 2 Action 3]|visibility| The text description part is too large, so focusing on the crucial interface is difficult.|P|minor|
-|[Task 1 Action 10]|terminology| It is difficult to distinguish between the remaining amount and the spent amount in the category tab. (spent amount is not specified, while remaining amount is specified ) |P| major|
-|[Task 2 Action 3]| terminology| The tab that specifies the payment request target is labeled as family. However, it is not clear that the family tab specifies the payment request target. |P| minor| 
-|[Task1 Action 1-3]|terminology|In the payment progress page, it needs to be clarified what 942$ and 33$ each means.|P|minor|
-|[Task 1 Action 2 / User 1]|flow| The back button does not work on the food payment screen. |P|minor|
-|[Task 1 Action 5 / User 2, User3]|flow| It is not intuitive to check whether you agree or disagree with the terms and conditions. When attempting to disagree, a message immediately pops up stating that consent is required, which confuses users.|P|catastrophic|
-|[Task 1 Action 10 / User 3]|flow| It is not clear what period the budget for each displayed category is set based on. (Is it a monthly budget? Is it a weekly budget?)|P|major|
-|[Task 4 / User 3]|flow| In the budget increase request, the period during which the budget increase is applied is unclear. (Is the increase only for one month or permanent?)|P|major|
-|[Not related to Task / User 3]|flow|It is difficult to figure out how to access the chat again.|P|minor|
-|[Not related to Task / User 2]|accessibility|It is hard for someone to understand the interface who cannot speak English|P|minor|
+|[Task 1 Action 4]|visibility| It is difficult to find the part where you agree to the terms and conditions. It was recognized only after the user reads the entire long text.|P1, P3|major|
+|[Task 2 Action 3]|visibility| The text description part is too large, so focusing on the crucial interface is difficult.|P3|minor|
+|[Task 1 Action 10]|terminology| It is difficult to distinguish between the remaining amount and the spent amount in the category tab. (spent amount is not specified, while remaining amount is specified )|P3| major|
+|[Task 2 Action 3]| terminology| The tab that specifies the payment request target is labeled as family. However, it is not clear that the family tab specifies the payment request target. |P1, P3| minor| 
+|[Task1 Action 1-3]|terminology|In the payment progress page, it needs to be clarified what 942$ and 33$ each means.|P3|minor|
+|[Task 1 Action 2]|flow| The back button does not work on the food payment screen. |P1|minor|
+|[Task 1 Action 5]|flow| It is not intuitive to check whether you agree or disagree with the terms and conditions. When attempting to disagree, a message immediately pops up stating that consent is required, which confuses users.|P2, P3|catastrophic|
+|[Task 1 Action 10]|flow| It is not clear what period the budget for each displayed category is set based on. (Is it a monthly budget? Is it a weekly budget?)|P3|major|
+|[Task 4]|flow| In the budget increase request, the period during which the budget increase is applied is unclear. (Is the increase only for one month or permanent?)|P3|major|
+|[Not related to Task]|flow|It is difficult to figure out how to access the chat again.|P3|minor|
+|[Not related to Task]|accessibility|It is hard for someone to understand the interface who cannot speak English|P2|minor|
 
 High-level reflections
 
