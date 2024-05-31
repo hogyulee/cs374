@@ -31,10 +31,7 @@ Connected Soultion: Make purchases within specific categories and adhere to pres
 
 ## Updates from DP4
 
-![DP5_you](https://github.com/hogyulee/cs374/assets/66636839/936d6f94-c06c-4755-b34e-3e7f68b97354)
-![DP5_select](https://github.com/hogyulee/cs374/assets/66636839/6ac6849d-ab58-4e86-b523-1e04aa1bc446)
-![DP5_requestchange](https://github.com/hogyulee/cs374/assets/66636839/f7af5e62-3364-463e-a569-50fb346547b7)
-![DP5_consent](https://github.com/hogyulee/cs374/assets/66636839/31695909-dca5-41bf-a16d-cb8d51a7c8a1)
+Compared to our previous DP, there were no updates to ideation results and only modifications to the prototype.
 
 ## Written protocol
 
@@ -276,7 +273,8 @@ He gave us many opinions during the post-user testing interview. He explained to
 |[Not related to Task]|flow|It is difficult to figure out how to access the chat again.|P3|minor|
 |[Not related to Task]|accessibility|It is hard for someone to understand the interface who cannot speak English|P2|minor|
 
-High-level reflections
+#### High-level reflections
+
 
 ## Studio Reflections
 
