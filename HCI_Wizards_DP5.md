@@ -230,7 +230,8 @@ Demographic, Context information
 
 #### Participant 1: Superman
 
-![superman](https://github.com/hogyulee/cs374/assets/66636839/0e4ac384-4053-4c7e-bc83-2718abe06c79)
+![gimho](https://github.com/hogyulee/cs374/assets/66636839/5de56f56-e6e3-49e3-916b-d763b4915acc)
+
 
 Superman was not fluent in English. So when our interface required reading English, it took him longer to understand it. In our app, if you spend more than your budget, a message appears saying that you are over budget, and it took him a long time to understand this. Also, the part about agreeing to the terms and conditions was long to read [Payment Information Confirmation and Personal Information Consent], which made it difficult to understand.
 
@@ -239,7 +240,8 @@ He said he could read English on his own, so we did not prepare a Korean version
 
 #### Participant 2: Ant Man
 
-![antman](https://github.com/hogyulee/cs374/assets/66636839/0c3452f5-4e9c-4c3f-b7b7-80da18ba8527)
+![gimhyeon](https://github.com/hogyulee/cs374/assets/66636839/63e2b4f1-237a-4d3d-8858-78775a52100c)
+(Since Antman is brother of Superman, He conducted user test in same laptop.)
 
 What was unique about Ant Man was that he never had his own smartphone. He says he doesn't have much experience with apps since he doesn't use smartphones other than his family's. 
 
