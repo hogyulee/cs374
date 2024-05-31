@@ -233,7 +233,7 @@ Demographic, Context information
 
 #### Participant 1: Superman
 
-(Photo or sketch of participant)
+![superman](https://github.com/hogyulee/cs374/assets/66636839/0e4ac384-4053-4c7e-bc83-2718abe06c79)
 
 Superman was not fluent in English. So when our interface required reading English, it took him longer to understand it. In our app, if you spend more than your budget, a message appears saying that you are over budget, and it took him a long time to understand this. Also, the part about agreeing to the terms and conditions was long to read [Payment Information Confirmation and Personal Information Consent], which made it difficult to understand.
 
@@ -242,7 +242,7 @@ He said he could read English on his own, so we did not prepare a Korean version
 
 #### Participant 2: Ant Man
 
-(Photo or sketch of participant)
+![antman](https://github.com/hogyulee/cs374/assets/66636839/0c3452f5-4e9c-4c3f-b7b7-80da18ba8527)
 
 What was unique about Ant Man was that he never had his own smartphone. He says he doesn't have much experience with apps since he doesn't use smartphones other than his family's. 
 
@@ -251,7 +251,7 @@ Ant Man had much the same problem as Superman. He wasn't familiar with English, 
 
 #### Participant 3: Iron man
 
-(Photo or sketch of participant)
+![ironman](https://github.com/hogyulee/cs374/assets/66636839/da2d7c41-ffad-4c3b-b5ca-774129bfc4b0)
 
 Summary description of each session 
 (e.g., What was unique about this participant? Main takeaway from this participant’s session?).
