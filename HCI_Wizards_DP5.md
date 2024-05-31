@@ -261,6 +261,14 @@ He gave us many opinions during the post-user testing interview. He explained to
 
 ## Usability lessons
 
+
+|Task/Action|Theme|User Problem|Participants|Severity|
+|-----------|-----|------------|------------|---------|
+|[Task 1 Action 4]|visibility| It is difficult to find the part where you agree to the terms and conditions. It was recognized only after the user reads the entire long text.|P|major|
+|[Task 2 Action 3]|visibility| The text description part is too large, so focusing on the crucial interface is difficult.|P|minor|
+|[Task 1 Action 10]|terminology| It is difficult to distinguish between the remaining amount and the spent amount in the category tab. (spent amount is not specified, while remaining amount is specified ) |P| major|
+
+
 1. [Task 1 Action 2] The back button does not work on the food payment screen.
 
 2. [Task 1 Action 4] It is difficult to find the part where you agree to the terms and conditions. It was recognized only after the user reads the entire long text.
