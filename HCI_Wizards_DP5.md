@@ -253,8 +253,10 @@ Ant Man had much the same problem as Superman. He wasn't familiar with English, 
 
 ![ironman](https://github.com/hogyulee/cs374/assets/66636839/da2d7c41-ffad-4c3b-b5ca-774129bfc4b0)
 
-Summary description of each session 
-(e.g., What was unique about this participant? Main takeaway from this participant’s session?).
+Iron Man did not experience much difficulty in user testing. He was fluent in English and familiar with the apps' interfaces. Other than a slight confusion between the amount spent and the amount remaining during the budget task, he completed the test with almost no problems. 
+
+He gave us many opinions during the post-user testing interview. He explained to us in detail the functions of apps in alternative positions to our apps, such as Toss and Kakao Mini. He was interested and praised our service's ability to manage spending by dividing into categories. He evaluated that these services could be a differentiator from other apps.
+
 
 
 ## Usability lessons
@@ -278,5 +280,11 @@ Summary description of each session
 High-level reflections
 
 ## Studio Reflections
+
+In the studio, Yeoungung from AC/DC and Chiyoon from What the Park participated in our user testing and provided feedback. 
+
+Yeoungung not only found several problems in our prototype but also suggested good solutions. The most helpful suggestion was the advice regarding “Agree to Terms and Conditions.” When a user tries to cancel their agreement to the terms and conditions, we immediately notify them and prevent them from doing so. However, this feature was a bit inconvenient. We were vaguely aware that the “Agree to Terms and Conditions” section was not intuitive for users, but we had no specific ideas on how to improve it. Yeoungung suggested that we allow users to cancel their agreement to the terms and conditions, and block payments if they try to make a payment after canceling the agreement. We accepted his feedback because we felt this was more intuitive. 
+
+Chiyoon not only informed us of user problems while going through the task, but also gave detailed feedback on features of our prototype that were not included in the task. Unlike other testers, he freely explored the prototype and discovered problems. Thanks to this, we were able to discover problems that had not been discovered before. We made it a task to automatically move to chat through budget requests, so we didn't really consider moving to chat through other methods. However, it was difficult to check the sent chat again, and this problem was discovered thanks to Chiyoon.
 
 ## Plan for iteration
