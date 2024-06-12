@@ -36,13 +36,18 @@ In summary, our interface excels because it is user-centric, adaptable, and deta
 
 ## Quality arguments - 규호
 
-1. Risk management through budget allocation by category
-
+** 1. Risk management through budget allocation by category **
+   
 Functions for safety are usually inconvenient for users. It directly prevents the user from doing what he or she wants to do with an error message. This experience of being stopped is not pleasant and has a negative impact on the user experience.
 
 Our services allow minors (individuals with limited ability to take responsibility) to freely consume. So we received feedback that we needed to pay more attention to safety, and we thought deeply about it. Category-based risk management is the result of our thinking.
 
 Our service allows users to allocate their budget by category. This is to limit minors from using their budget for things they shouldn't. The reason we think this feature is cool is because it makes users feel less limited, even though they are actually limited. Our service doesn't say, "Don't spend your money on that." We just say, “We’ve run out of budget for that category.”
+
+** 2. Simplicity and Intuitiveness **
+
+Users often remarked on the simplicity and intuitiveness of our interface. The common feedback was, “Is that all?”—a testament to the interface’s ease of use. The traditional method of requesting payment from parents through messages, phone calls, etc. is inconvenient. Our video clearly shows the inconvenience of traditional methods. If a child wants to ask their parents to order food for delivery to their home, they must send the store information, menu information, and other details. Parents must also check and reflect all of the information to complete the order. With our service, you can consume immediately without any inconvenient communication process. This simplicity empowers users, reducing the cognitive load and making the technology accessible to a broader audience.
+
 
 
 ## Iteration
