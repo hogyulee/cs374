@@ -34,6 +34,16 @@ To illustrate these points, user testimonials highlight the efficiency and ease 
 
 In summary, our interface excels because it is user-centric, adaptable, and detail-oriented, making it not just functional but a pleasure to use. Its design anticipates future needs, ensuring longevity and continued relevance in an evolving tech landscape. This combination of features makes our interface truly great, setting a benchmark for what effective UI design should look like.
 
+## Quality arguments - 규호
+
+1. Risk management through budget allocation by category
+
+Functions for safety are usually inconvenient for users. It directly prevents the user from doing what he or she wants to do with an error message. This experience of being stopped is not pleasant and has a negative impact on the user experience.
+
+Our services allow minors (individuals with limited ability to take responsibility) to freely consume. So we received feedback that we needed to pay more attention to safety, and we thought deeply about it. Category-based risk management is the result of our thinking.
+
+Our service allows users to allocate their budget by category. This is to limit minors from using their budget for things they shouldn't. The reason we think this feature is cool is because it makes users feel less limited, even though they are actually limited. Our service doesn't say, "Don't spend your money on that." We just say, “We’ve run out of budget for that category.”
+
 
 ## Iteration
 
