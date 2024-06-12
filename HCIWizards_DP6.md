@@ -34,11 +34,11 @@ To illustrate these points, user testimonials highlight the efficiency and ease 
 
 In summary, our interface excels because it is user-centric, adaptable, and detail-oriented, making it not just functional but a pleasure to use. Its design anticipates future needs, ensuring longevity and continued relevance in an evolving tech landscape. This combination of features makes our interface truly great, setting a benchmark for what effective UI design should look like.
 
-## Quality arguments - 규호 (297 word)
+## Quality arguments - 규호 (450 word)
 
 Below are key arguments that demonstrate why our interface is exceptional:
 
-** 1. Risk management through budget allocation by category **
+#### Safety -  Risk management through budget allocation by category 
    
 Functions for safety are usually inconvenient for users. It directly prevents the user from doing what he or she wants to do with an error message. This experience of being stopped is not pleasant and has a negative impact on the user experience.
 
@@ -46,9 +46,14 @@ Our services allow minors (individuals with limited ability to take responsibili
 
 Our service allows users to allocate their budget by category. This is to limit minors from using their budget for things they shouldn't. The reason we think this feature is cool is because it makes users feel less limited, even though they are actually limited. Our service doesn't say, "Don't spend your money on that." We just say, “We’ve run out of budget for that category.”
 
-** 2. Simplicity and Intuitiveness **
+#### Efficiency - Minimized unnecessary communication processes
 
 Users often remarked on the simplicity and intuitiveness of our interface. The common feedback was, “Is that all?”—a testament to the interface’s ease of use. The traditional method of requesting payment from parents through messages, phone calls, etc. is inconvenient. Our video clearly shows the inconvenience of traditional methods. If a child wants to ask their parents to order food for delivery to their home, they must send the store information, menu information, and other details. Parents must also check and reflect all of the information to complete the order. With our service, you can consume immediately without any inconvenient communication process. This simplicity empowers users, reducing the cognitive load and making the technology accessible to a broader audience.
+
+#### Learnability - Learnable interface through active use of icons
+We wanted our interface to be learnable for users. We thought that if our interface was similar to existing services, users would be familiar with it and it would be easy to learn. Therefore, our interface was created by benchmarking existing pay service interfaces, which helped with leanability.
+
+But we couldn't and didn't copy everything. What we were pursuing was clearly different from existing services, and as the functions were different, there were areas where our creativity was needed. We needed a way to increase learnability when creating an unfamiliar interface that was different from existing pay services. We actively used icons. Appropriate use of icons helps users guess what each component does. A representative example is the consumption management screen by category. In the unfamiliar function of viewing consumption by category, users were able to gauge the meaning of each category by looking at the icons.
 
 
 
